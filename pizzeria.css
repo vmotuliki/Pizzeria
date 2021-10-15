@@ -1,8 +1,39 @@
+nav {
+    background-color: burlywood;
+    height: 70px;
+}
 #header {
     text-align: center;
     font-size: xxx-large;
+    background-color: orangered;
+    
 }
 p {
 font-style: italic;
 font-size: xx-large;
+background-color: burlywood;
+}
+.topnav {
+    text-align: center;
+    box-sizing: border-box;
+    padding: -10px;
+}
+.topnav a{
+    padding: 120px;
+    font-size: 50px;
+    border-style: groove 50px;
+    
+}
+body {
+    background-color: darkslateblue;
+}
+button {
+    margin-top: 20px;
+    background: grey;
+    border: none;
+    outline: none;
+    letter-spacing: .04em;
+    font-size: 20px;
+    padding: 15px 20px;
+    float: right;
 }
